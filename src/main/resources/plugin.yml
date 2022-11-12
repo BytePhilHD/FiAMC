@@ -1,0 +1,7 @@
+name: FiA
+version: 1.0
+main: main.Main
+author: BytePhil
+
+commands:
+  home:
